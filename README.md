@@ -16,3 +16,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>  
+
+</div>
+
+<div>
+  <h4>Vamos nos conectar! 🚀</h4>
+  <a href="https://www.linkedin.com/in/tiago-eich-52ab57286/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" width="40"></a>
+</div>
