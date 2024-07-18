@@ -20,7 +20,7 @@
 </div>
 
 <div>
-  <h4>Vamos nos conectar! 🚀</h4>
-  <a href="https://www.linkedin.com/in/tiago-eich-52ab57286/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" width="40"></a>
-  <a href="https://www.instagram.com/tiagoeich__/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram"></a>
+  <h4>Pensando em colaborar ou apenas conversar? Aqui está como você pode me encontrar! 🤠</h4>
+   <a href="https://www.linkedin.com/in/tiago-eich-52ab57286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://instagram.com/tiagoeich__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
