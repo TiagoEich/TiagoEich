@@ -6,8 +6,8 @@ Bem-vindo(a) ao meu repositório! 💻
 </h4>
 
 - Atualmente estudo e pratico programação em Java, além de fundamentos de desenvolvimento web.<br>
-- Técnico em Informática para Internet pela Fundação Escola Técnica Liberato Salzano Vieira da Cunha.<br>
-- Início do Bacharelado em Sistemas de Informação na Unisinos em 2026.<br><br>
+- Técnico em Informática para Internet pela Fundação Escola Técnica Liberato Salzano Vieira da Cunha.
+- Bacharelado em Sistemas de Informação na Unisinos (em andamento).
 
 Aqui você encontrará projetos de estudo, exercícios práticos e aplicações em desenvolvimento, que fazem parte do meu processo de aprendizado.
 
