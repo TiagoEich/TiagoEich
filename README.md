@@ -12,6 +12,7 @@ Bem-vindo(a) ao meu repositório! 💻
 Aqui você encontrará projetos de estudo, exercícios práticos e aplicações em desenvolvimento, que fazem parte do meu processo de aprendizado.
 
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoEich&show_icons=true&theme=radical)](https://github.com/TiagoEich/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEich&layout=compact&theme=radical)](https://github.com/TiagoEich/github-readme-stats)
 
