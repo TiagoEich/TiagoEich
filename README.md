@@ -9,7 +9,7 @@ Bem-vindo(a) ao meu repositório! 💻
 - Técnico em Informática para Internet pela Fundação Escola Técnica Liberato Salzano Vieira da Cunha.
 - Bacharelado em Sistemas de Informação na Unisinos (em andamento).
 
-Aqui você encontrará projetos de estudo, exercícios práticos e aplicações em desenvolvimento, que fazem parte do meu processo de aprendizado.
+Aqui você encontrará projetos back-end com Java e Spring Boot, APIs REST e aplicações em desenvolvimento.
 
 
 
@@ -22,7 +22,6 @@ Aqui você encontrará projetos de estudo, exercícios práticos e aplicações 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flyway/flyway-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
